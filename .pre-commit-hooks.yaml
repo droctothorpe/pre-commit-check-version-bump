@@ -1,0 +1,5 @@
+-   id: check-version-bump
+    name: check for version bump 
+    description: validates that specified version file is ahead of the latest tag in the remote. 
+    entry: check-version-bump
+    language: bash 
